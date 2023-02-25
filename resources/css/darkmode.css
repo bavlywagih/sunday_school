@@ -1,0 +1,96 @@
+html.dark body .div-pro-id-mt,
+html.dark body .div-profile-container .main-body .div-row-profile .profile-div-prop-col .card,
+html.dark body .div-profile-container .main-body .div-row-profile .profile-div-prop-col .card .row .div-text-pro span,
+html.dark body .div-edit-pro-cont .main-body .gutters-sm .form-pro-edit,
+html.dark body .card .card-body hr,
+html.dark body .h1-post-id,
+html.dark body .div-card-user div h2,
+html.dark body .div-card-user table tbody tr th a,
+html.dark body .div-card-user table tbody tr td,
+html.dark body .session-card .card-body div h2,
+html.dark body .session-card .card-body .dropdown ul button li a,
+html.dark body .div-one-grade main h4,
+html.dark body .div-one-grade main hr,
+html.dark body .div-one-grade main h5,
+html.dark body .div-one-grade main div,
+html.dark body .container .attendance-div-cont .attendance-div-col .attendance-div-card .attendance-div-card-body .attendance-div-prop #v-pills-tabContent #v-pills-grades table thead tr th,
+html.dark body .container .attendance-div-cont .attendance-div-col .attendance-div-card .attendance-div-card-body .attendance-div-prop #v-pills-tabContent #v-pills-grades table tbody tr th,
+html.dark body .container .attendance-div-cont .attendance-div-col .attendance-div-card .attendance-div-card-body .attendance-div-prop #v-pills-tabContent #v-pills-grades table tbody tr grade-th,
+html.dark body .container .attendance-div-cont .attendance-div-col .attendance-div-card .attendance-div-card-body .attendance-div-prop #v-pills-tabContent #v-pills-grades table tbody tr grade-th,
+html.dark body .container .attendance-div-cont .attendance-div-col .attendance-div-card .attendance-div-card-body .attendance-div-prop #v-pills-tabContent #v-pills-grades table tbody tr a,
+html.dark body .h1-tinymce-editor,
+html.dark body .showsorting-dark-text,
+html.dark body .card-create-info-div,
+html.dark body .session-card,
+html.dark body .session-card .card-body .dropdown button,
+html.dark body .session-card .card-body .dropdown ul,
+html.dark body #collectAttendance form .modal-dialog .modal-content .modal-header,
+html.dark body #collectAttendance form .modal-dialog .modal-content div button i,
+html.dark body #create-post-form label,
+html.dark body #sortingModal .modal-dialog .modal-content .modal-header,
+html.dark body #booksortingModal .modal-dialog .modal-content .modal-header,
+html.dark body #booksortingModal .modal-dialog .modal-content .modal-header button i,
+html.dark body #bookModal .modal-dialog .modal-content .modal-header,
+html.dark body #bookModal .modal-dialog .modal-content .modal-header button i,
+html.dark body .container .box .info h5,
+html.dark body #sortingModal .modal-dialog .modal-content .modal-header button i,
+html.dark body .book-dark-dropdown .book-dark-button,
+html.dark body .book-dark-div,
+html.dark body .container .box h3,
+html.dark body .container .box i,
+html.dark body #aboat .info .box .text,
+html.dark body .container .text p,
+html.dark body .container .text h1,
+html.dark body #createSession form .modal-dialog .modal-content .modal-header,
+html.dark body #createSession form .modal-dialog .modal-content .modal-header div button i,
+html.dark body #createGrade form .modal-dialog .modal-content .modal-header,
+html.dark body #createGrade form .modal-dialog .modal-content .modal-header div button i,
+html.dark body .div-create-session form .modal-dialog .modal-content .modal-header h2,
+html.dark body .div-create-session form .modal-dialog .modal-content .modal-body .mb-3 label,
+html.dark body .div-create-session form .modal-dialog .modal-content .modal-body label,
+html.dark body .card-kash-oro,
+html.dark body .navbar .auth-dark,
+html.dark body .navbar .i-dropdown-dark,
+html.dark body .navbar .navbar-toggler .but-togger-bars ,
+html.dark body .to-top.active,
+html.dark body .mce-content-body,
+html.dark body .div-create-session form .modal-dialog .modal-content .modal-body .mb-3 .form-floating .tox-tinymce .tox-editor-container .tox-sidebar-wrap .tox-edit-area #post-editor_ifr .mce-content-body::before,
+html.dark body,
+html.dark body .mce-content-body::before,
+html.dark body .offcanvas-header button,
+html.dark body .post-actions .edit   i,
+html.dark body .post-actions .delete i,
+html.dark body .post-actions button
+{
+    color: white !important;
+}
+html.dark body .select-wrapper {
+    background: url('http://127.0.0.1:8000/image/image-solid.svg') no-repeat;
+    background-size: cover;
+    display: block;
+    position: relative;
+    width: 33px !important;
+    height: 26px !important;
+}
+
+html.dark body .to-top.active,
+html.dark body .div-create-session form .modal-dialog .modal-content .modal-body .mb-3 .form-floating .tox-tinymce .tox-editor-container .tox-sidebar-wrap .tox-edit-area #post-editor_ifr .mce-content-body::before,
+html.dark body,
+html.dark body .post,
+html.dark body .offcanvas-body .nav-pro-mopile:hover,
+html.dark body .post-actions button {
+    background-color: #1f2937 !important;
+}
+
+
+
+html.dark body .to-top.active,
+html.dark body .div-create-tayo,
+html.dark body .div-card-user,
+html.dark body .container .attendance-div-cont .attendance-div-col .attendance-div-card .attendance-div-card-body,
+html.dark body .library-border-dark .card,
+html.dark body .post {
+    border: 1px solid white;
+}
+
+
